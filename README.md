@@ -1,1 +1,0 @@
-I made this so I could learn react, there isnt much special about it
